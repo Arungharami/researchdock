@@ -1,0 +1,1 @@
+export default function NotFound() { return <div className="container"><h1>Resource unavailable.</h1><p>This item may be private, removed, or not yet approved.</p><a className="button" href="/explore">Explore public research</a></div>; }
